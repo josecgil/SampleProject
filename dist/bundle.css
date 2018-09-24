@@ -1,0 +1,18 @@
+/* message input */
+
+.message-input {
+    display:block;
+    border: 2px solid red;
+}
+/* message queue */
+
+.message-queue {
+    display:block;
+    min-height: 500px;
+}
+/* status */
+
+.status {
+    display:block;
+}
+
